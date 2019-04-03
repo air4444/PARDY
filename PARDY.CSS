@@ -1,0 +1,49 @@
+body{
+    margin:0px;
+    }
+    .frame{
+        background-color:orangered;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display:flex;
+        justify-content:center;
+        align-items: center;
+        padding:10px;
+    }
+    .frame2{
+        width: 100%;
+        margin-left:auto;
+        margin-right:auto;
+        display:flex;
+        justify-content:center;
+        align-items: center;
+        padding:10px;
+    }
+    
+    
+    
+    .left{
+        width: 600px;
+        font-size: 45px;
+        font-weight: bold;
+        color:rgb(24, 11, 73);
+        font-family: serif;
+    }
+    .right{
+        width: 400px;
+        color: rgb(94, 86, 167);
+        font-size: 10pt;
+    }
+    .left2{
+        color: black;
+        width：500px;
+        font-size:16pt;
+        font-weight:bold;
+        
+    }
+    .right2{
+        width: 500px;
+        font-size:200%;
+        
+    }
